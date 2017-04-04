@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+.idea
+recordcmd.iml
+target/classes
+target/maven-archiver
+target/test-classes
+target/maven-status
+target/surefire-reports
+target/original-recordcmd-1.0.1.jar

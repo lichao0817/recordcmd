@@ -1,0 +1,8 @@
+James, LeBron, M, Red, 12/30/1984
+Mouse, Mickey, M, White, 11/18/1928
+Obama, Barack, M, Blue, 08/04/1961
+Watson, Emma, F, Red, 04/15/1990
+Jolie, Angelina, F, Black, 06/04/1975
+Lovelace, Ada, F, Blue, 12/10/1815
+Levine, Adam, M, Red, 03/18/1979
+Pitt, Brad, M, Black, 12/18/1963
