@@ -11,7 +11,7 @@ You must have the following to run the application:
 
 (Make sure you have them installed on your computer before you run the application)
 
-## Run the application
+## Get the application
 
 Download the application
 <ol>
