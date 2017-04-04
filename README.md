@@ -52,4 +52,4 @@ Test sorting records by date of birth:
 |model  |100     |93       |92     |
 |util   |100     |100      |90     |
 
-More details are in <code>record/coverage</code>
+More details are in <code>recordcmd/coverage</code>
