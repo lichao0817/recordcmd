@@ -3,6 +3,7 @@
 
 <li>Java 1.8</li>
 <li>Maven</li>
+<li>JCommander</li>
 
 ## Prerequisites to run the application
 
